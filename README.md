@@ -25,6 +25,7 @@ SeaPlusPlus is a C++ console application that simulates a real-world fish valida
 - C++
 - Standard Template Library (STL)
 - File I/O (CSV parsing)
+- Clion
 
 ## 🚀 How to Run
 
